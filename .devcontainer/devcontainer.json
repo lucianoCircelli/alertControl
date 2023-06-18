@@ -1,0 +1,6 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+      "github-cli": "latest" // add this line by luciano 23_01_01 from https://github.com/cli/cli#installation
+  }
+}
